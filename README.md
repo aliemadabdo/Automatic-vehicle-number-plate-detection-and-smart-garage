@@ -5,10 +5,10 @@ The purpose of this project is to create a smart garage system that uses AI and 
 
 This project is developed by four trainees from National Telecommunication Institute (NTI) in egypt as part of our training program. The project members are:
 
-- Ali Emad Abdo, Contact: a.e.a3426@gmail.com
-- [Name of trainee 2], Contact: [phone number or email]
-- [Name of trainee 3], Contact: [phone number or email]
-- [Name of trainee 4], Contact: [phone number or email]
+- Ali Emad Abdo,         Contact: a.e.a3426@gmail.com
+- Ahmed Mohamed Hussein, Contact: Ahmedmvpacc@gmail.com
+- Mohamed Ahmed Ali,     Contact: mo.tantawy97@gmail.com
+- Ahmed Hesham Elhfnawi, Contact: medooscar2003@gmail.com
 
 ## System Architecture:
 The smart garage system will consist of the following components:
@@ -34,8 +34,7 @@ To use the smart garage system, follow these simple steps:
 1. Open the mobile app on your smartphone or tablet.
 2. The app will display the current availability status of the parking spaces in your garage.
 3. To open the garage door, simply drive up to the door and wait for the system to recognize your license plate.
-4. To open the garage door, simply drive up to the door and wait for the system to recognize your license plate.
-5. Once your license plate is recognized, the system will automatically open the garage door.
-6. To close the garage door, simply drive out of the garage and the door will automatically close.
+4. Once your license plate is recognized, the system will automatically open the garage door.
+5. To close the garage door, simply drive out of the garage and the door will automatically close.
 
 Note: The mobile app is implemented using Node-RED and does not require any installation on your device. Simply access the app using your device's web browser and save it to your home screen for easy access.
